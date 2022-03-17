@@ -2,7 +2,7 @@ using Microsoft.OpenApi.Models;
 using PizzaStore.Models;
 using Microsoft.EntityFrameworkCore;
 
-// this is in feature-devops-home-page branch
+// this is in feature-devops-home-page branch mod2
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();
